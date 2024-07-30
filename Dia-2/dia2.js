@@ -1,0 +1,1 @@
+console.log("Começando o dia 2 novamente")
